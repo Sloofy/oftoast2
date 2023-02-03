@@ -169,7 +169,7 @@ margin_bottom = 72.0
 [node name="Label2" type="Label" parent="MarginContainer/VBoxContainer/LauncherContainer/VBoxContainer/Threads"]
 margin_right = 743.0
 margin_bottom = 34.0
-text = "No. of threads"
+text = "No. of Threads:"
 
 [node name="Text" type="LineEdit" parent="MarginContainer/VBoxContainer/LauncherContainer/VBoxContainer/Threads"]
 margin_top = 38.0
@@ -209,7 +209,7 @@ size_flags_vertical = 0
 [node name="Label2" type="Label" parent="MarginContainer/VBoxContainer/LauncherContainer/VBoxContainer/InstallDir"]
 margin_right = 743.0
 margin_bottom = 34.0
-text = "Install directory:"
+text = "Install Directory:"
 
 [node name="Button" type="Button" parent="MarginContainer/VBoxContainer/LauncherContainer/VBoxContainer/InstallDir"]
 margin_top = 38.0
@@ -227,7 +227,7 @@ size_flags_vertical = 3
 [node name="Label2" type="Label" parent="MarginContainer/VBoxContainer/LauncherContainer/VBoxContainer/Mirrors"]
 margin_right = 743.0
 margin_bottom = 34.0
-text = "Mirrors (each mirror on a new line)"
+text = "Mirrors (each mirror on a new line):"
 
 [node name="Text" type="TextEdit" parent="MarginContainer/VBoxContainer/LauncherContainer/VBoxContainer/Mirrors"]
 margin_top = 38.0
